@@ -26,7 +26,7 @@ body{
     color: var(--Soft-Red);
 }
 main {
-    background: url("images/bg-pattern-desktop.svg") no-repeat ;
+    background: url("../images/bg-pattern-desktop.svg") no-repeat ;
     background-repeat: no-repeat;
     background-size: contain;
     background-color: #fff7f8;
@@ -42,7 +42,7 @@ main {
 }
 
 .img-hero {
-    content: url('images/hero-desktop.jpg');
+    content: url('../images/hero-desktop.jpg');
     grid-area: img;
     height: 100vh;     
 }
