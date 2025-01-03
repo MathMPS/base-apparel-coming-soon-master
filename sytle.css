@@ -203,7 +203,7 @@ main,.info{
 }
 .adress button{
     position: absolute;
-    top: -1%;
+    top: 0%;
     right: 9%;
     padding: 17px 30px;
 }
