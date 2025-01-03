@@ -42,7 +42,7 @@ main {
 }
 
 .img-hero {
-    content: url('../images/hero-desktop.jpg');
+    content: url('https://github.com/MathMPS/base-apparel-coming-soon-master/blob/main/images/hero-mobile.jpg');
     grid-area: img;
     height: 100vh;     
 }
