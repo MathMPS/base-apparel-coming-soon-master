@@ -1,4 +1,4 @@
-const subscribeButton = document.querySelector('.button');
+const subscribeButton = document.querySelector('.submitButton');
 const messageElement = document.getElementById('message');
 const inputElement = document.querySelector('.input');
 const errorImage = document.querySelector('.error');
